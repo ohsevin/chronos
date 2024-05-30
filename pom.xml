@@ -26,7 +26,7 @@
     <chaos.version>0.8.7</chaos.version>
     <commons-math3.version>3.2</commons-math3.version>
     <commons-codec.version>1.10</commons-codec.version>
-    <commons-email.version>1.3.3</commons-email.version>
+    <commons-email.version>1.5</commons-email.version>
     <commons-lang3.version>3.5</commons-lang3.version>
     <curator-framework.version>2.11.0</curator-framework.version>
     <guava.version>16.0.1</guava.version>
@@ -40,7 +40,7 @@
 
     <!-- test deps versions -->
     <akka-testkit.version>2.3.16</akka-testkit.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mockito.version>1.9.5</mockito.version>
     <specs2.version>3.7</specs2.version>
 
